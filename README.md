@@ -171,11 +171,12 @@ A hand-verified list of **189 live AI tool directories** to submit your AI tool 
 | WhatstheBigData.com | https://whatsthebigdata.com/ai-tools |
 | Yet Another AI Tool Directory | https://yaatd.com |
 
-## Launch platforms (10)
+## Launch platforms (11)
 
 | Directory | Link |
 |---|---|
 | AI Hunt List | https://aihuntlist.com |
+| SaaSCity | https://saascity.io |
 | AIToolsHunt | https://aitoolshunt.com |
 | aiyouneed | https://aiyouneed.com |
 | Deeplaunch.io | https://deeplaunch.io |
