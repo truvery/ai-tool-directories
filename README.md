@@ -113,6 +113,7 @@ A hand-verified list of **189 live AI tool directories** to submit your AI tool 
 | Intelligent Tools | https://intelligenttools.co |
 | Kick Product | https://kickproduct.com |
 | leadingai | https://leadingai.tools |
+| LibreAI | https://libreaihub.vercel.app |
 | LineZine AI Tool Directory | https://linezine.com/ai-tool-directory |
 | ListYourTool | https://www.listyourtool.com |
 | Makerlist.io | https://makerlist.io |
