@@ -16,6 +16,7 @@ A hand-verified list of **189 live AI tool directories** to submit your AI tool 
 | AI Sites Net | https://ai-sites.net |
 | ai-toolflow | https://ai-toolflow.com |
 | AI-Tools Directory | https://ai-tools.directory |
+| AI Tools Radar | https://aitoolsradar.com/ |
 | AIChief | https://aichief.com |
 | AI Corner | https://aicorner.net |
 | AIDir | https://aidir.wiki |
