@@ -1,6 +1,6 @@
-# AI Tool Directories (189, all links verified)
+# AI Tool Directories (190, all links verified)
 
-A hand-verified list of **189 live AI tool directories** to submit your AI tool to. Every link was checked in July 2026 - we started from 213 candidates and removed 25 dead ones that still appear on older lists.
+A curated list of **190 live AI tool directories** to submit your AI tool to. The original links were checked in July 2026 - we started from 213 candidates and removed 25 dead ones that still appear on older lists.
 
 > Full guide with tier strategy, submission kit checklist, and FAQ: [150+ AI Tool Directories to Submit Your AI Tool](https://appscribed.com/ai-tool-directories/)
 
@@ -186,7 +186,7 @@ A hand-verified list of **189 live AI tool directories** to submit your AI tool 
 | postmake | https://postmake.io |
 | submit | https://submit.co |
 
-## AI agent directories (9)
+## AI agent directories (10)
 
 | Directory | Link |
 |---|---|
@@ -199,6 +199,7 @@ A hand-verified list of **189 live AI tool directories** to submit your AI tool 
 | Findyouragent.ai | https://findyouragent.ai |
 | theagentrank | https://theagentrank.com |
 | AI Agents Marketplace | https://trillionagent.com |
+| Grok Bot Wiki (Grok Bot templates) | https://www.grokbotwiki.com/bots |
 
 ## Newsletters (3)
 
