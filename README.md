@@ -129,6 +129,7 @@ A hand-verified list of **189 live AI tool directories** to submit your AI tool 
 | peakaigrowth | https://peakaigrowth.com |
 | PoweredbyAI | https://poweredbyai.app |
 | Productivity Directory | https://productivity.directory |
+| Public Prompts | https://www.publicprompts.art/ |
 | Selljam.ai | https://selljam.ai |
 | Show Me Best AI | https://showmebest.ai |
 | smacient | https://smacient.com |
