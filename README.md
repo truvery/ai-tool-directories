@@ -1,12 +1,12 @@
-# AI Tool Directories (189, all links verified)
+# AI Tool Directories (190, all links verified)
 
-A hand-verified list of **189 live AI tool directories** to submit your AI tool to. Every link was checked in July 2026 - we started from 213 candidates and removed 25 dead ones that still appear on older lists.
+A hand-verified list of **190 live AI tool directories** to submit your AI tool to. Every link was checked in July 2026 - we started from 213 candidates and removed 25 dead ones that still appear on older lists.
 
 > Full guide with tier strategy, submission kit checklist, and FAQ: [150+ AI Tool Directories to Submit Your AI Tool](https://appscribed.com/ai-tool-directories/)
 
 **How to use:** work in tiers. Start with the big general directories, hit launch platforms during launch week, then niche directories matching your category. Prepare one submission kit first: 512px logo, 60-char tagline, 150-word description, 3 screenshots.
 
-## General AI directories (160)
+## General AI directories (161)
 
 | Directory | Link |
 |---|---|
@@ -77,6 +77,7 @@ A hand-verified list of **189 live AI tool directories** to submit your AI tool 
 | Best of AI | https://bestofai.io |
 | Best of Web | https://www.bestofweb.site |
 | Beyond AI Tools | https://www.beyondaitools.com |
+| Build Stack Tools | https://buildstacktools.com |
 | BuildVoyage | https://buildvoyage.com |
 | Byblos AI | https://byblosai.com |
 | chatgate | https://chatgate.ai |
