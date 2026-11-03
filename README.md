@@ -171,7 +171,7 @@ A hand-verified list of **189 live AI tool directories** to submit your AI tool 
 | WhatstheBigData.com | https://whatsthebigdata.com/ai-tools |
 | Yet Another AI Tool Directory | https://yaatd.com |
 
-## Launch platforms (10)
+## Launch platforms (11)
 
 | Directory | Link |
 |---|---|
@@ -181,6 +181,7 @@ A hand-verified list of **189 live AI tool directories** to submit your AI tool 
 | Deeplaunch.io | https://deeplaunch.io |
 | launch-list | https://launch-list.org |
 | launched | https://launched.site |
+| LaunchRove | https://launchrove.com |
 | Launch Vault | https://www.launchvault.dev |
 | OpenHunts | https://openhunts.com |
 | postmake | https://postmake.io |
