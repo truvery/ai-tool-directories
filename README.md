@@ -6,7 +6,7 @@ A hand-verified list of **189 live AI tool directories** to submit your AI tool 
 
 **How to use:** work in tiers. Start with the big general directories, hit launch platforms during launch week, then niche directories matching your category. Prepare one submission kit first: 512px logo, 60-char tagline, 150-word description, 3 screenshots.
 
-## General AI directories (160)
+## General AI directories (161)
 
 | Directory | Link |
 |---|---|
@@ -146,6 +146,7 @@ A hand-verified list of **189 live AI tool directories** to submit your AI tool 
 | theaisurf | https://theaisurf.com |
 | The Next AI Tool | https://thenextaitool.com |
 | thetoolify | https://thetoolify.dev |
+| Tool Directory AI | https://tooldirectoryai.com |
 | ToolDirs | https://tooldirs.com |
 | Toolify.ai | https://www.toolify.ai |
 | tooliq | https://tooliq.ai |
